@@ -1,8 +1,8 @@
-# RFID 的 MFC 实验
+# RFID课程项目2 --- MFC开发
+> 基于Visual Studio，实现一个RFID读写器的上位机软件
 
 ## 最终效果
-### tab1
-![](./img/tab1.png)
 
-### tab2 
-![](./img/tab2.png)
+|        tab1         |        tab2         |
+| :-----------------: | :-----------------: |
+| ![](./img/tab1.png) | ![](./img/tab2.png) |
